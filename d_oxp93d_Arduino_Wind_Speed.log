@@ -1,0 +1,4 @@
+2020-07-06 16:25:03,566   ibmiotf.device.Client      INFO    Connected successfully: d:oxp93d:Arduino:Wind_Speed
+2020-07-06 22:11:06,330   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-07-06 22:11:06,562   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-07-06 22:11:13,173   ibmiotf.device.Client      INFO    Connected successfully: d:oxp93d:Arduino:Wind_Speed
